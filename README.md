@@ -3,17 +3,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer+%7C+UX%2FUI+Designer;&center=true&width=500&height=50&color=B194FF" alt="Typing SVG">
-</a>
 
-</p>
 
 <div align="center">
-  <h2> About Me ✨</h2>
+ 
   <p style="max-width: 800px; text-align: center; font-size: 1.2rem;">
-    I am a passionate software developer with a strong focus on UX/UI design.  
+    I am a passionate software developer.  
     I specialize in creating technological solutions that combine functionality with intuitive design.  
     I love learning new technologies, solving problems, and collaborating on challenging projects.
   </p>
@@ -46,19 +41,4 @@
 
 
 
-
-## 📬 Get in Touch
-
-<p align="center">Let’s connect!</p>
-
-<p align="center">
-  <a href="mailto:noyr2611@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/clouds/100/000000/gmail.png" alt="Email" width="60" style="border-radius: 50%;">
-  </a>
-  &emsp;
-  <a href="https://github.com/noy2611" target="_blank">
-    <img src="https://img.icons8.com/clouds/100/000000/github.png" alt="GitHub" width="60" style="border-radius: 50%;">
-  </a>
-  &emsp;
-</p>
 
